@@ -8,7 +8,7 @@ public class AdapterDemo {
 		// TODO Auto-generated method stub
 		Drive dr = new Adapter();
 		dr.sendOutput( "Test");
-		
+		//
 	}
 
 }
